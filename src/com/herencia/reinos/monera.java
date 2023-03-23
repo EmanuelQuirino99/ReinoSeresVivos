@@ -1,6 +1,6 @@
 package com.herencia.reinos;
 
-public class monera {
+public class monera extends SeresVivos{
     String tamaño;
     String clasificacion;
 
